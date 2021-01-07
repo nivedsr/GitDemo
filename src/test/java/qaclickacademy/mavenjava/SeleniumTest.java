@@ -7,6 +7,7 @@ public class SeleniumTest {
 	@Test
 	public void userLogin() {
 		System.out.println("Login is success");
+		System.out.println("User has logged in");
 	}
 	
 	@Test
